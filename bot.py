@@ -6,7 +6,7 @@ import random
 API_TOKEN = "7532992872:AAGBchki_gTAQtg4ySHK3J_4b8pwp7iFQW8"
 
 # تنظیمات بات
-bot = Bot(token=7532992872:AAGBchki_gTAQtg4ySHK3J_4b8pwp7iFQW8)
+bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
 # لیست جواب‌های طنز
