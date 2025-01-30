@@ -3,10 +3,10 @@ from aiogram.utils import executor
 import random
 
 # توکن بات از BotFather
-API_TOKEN = "توکن_خودت_اینجا_بذار"
+API_TOKEN = "7532992872:AAGBchki_gTAQtg4ySHK3J_4b8pwp7iFQW8"
 
 # تنظیمات بات
-bot = Bot(token=API_TOKEN)
+bot = Bot(token=7532992872:AAGBchki_gTAQtg4ySHK3J_4b8pwp7iFQW8)
 dp = Dispatcher(bot)
 
 # لیست جواب‌های طنز
